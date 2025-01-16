@@ -42,11 +42,11 @@ pip install termcolor pyfiglet colorama
 ## Commands Paste It on terminal
 
 ```sh
-git clone https://github.com/DEVARSHMEHTA/CODTECHADVANCE_T1.git
+git clone https://github.com/DEVARSHMEHTA/-CODTECH_ADVANCE_1.git
 ```
 
 ```sh
-cd CODTECHADVANCE_T1
+cd -CODTECH_ADVANCE_1
 ```
 
 ```sh
