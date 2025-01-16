@@ -1,0 +1,6 @@
+hashlib
+termcolor
+pyfiglet
+datetime
+json
+colorama
