@@ -69,11 +69,6 @@ python3 integrity_checker.py
 - Devarsh Mehta
 - [GitHub Profile](https://github.com/DEVARSHMEHTA)
 
-## License
-
-Licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-
 ## Acknowledgments
 
 - [pyfiglet](https://github.com/pwaller/pyfiglet): ASCII art generation
